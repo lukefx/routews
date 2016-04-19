@@ -1,0 +1,20 @@
+{
+  "name": "routews",
+  "version": "0.0.1",
+  "description": "Calcola il tragitto in km su strada in base a due coordinate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Simone <luca.simone@ti.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "proj4": "^2.3.14",
+    "request": "^2.71.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
